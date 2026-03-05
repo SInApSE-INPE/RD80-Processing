@@ -1,6 +1,23 @@
-# Datamap Scripts
+# RD80 Scripts
 
-Este repositório contém scripts para gerar arquivos netCDF a partir de dados em formato `.trf` e também para gerar figuras a partir de arquivos netCDF. Abaixo estão descritos os comandos disponíveis para execução dos scripts.
+## Descrição
+
+Este repositório contém um conjunto de ferramentas desenvolvidas para o processamento de dados de disdrômetros RD80 coletados em diferentes projetos de campo e campanhas observacionais. O código fornece rotinas para organização, pré-processamento e geração de saídas padronizadas, apoiando estudos de microfísica da precipitação e atividades de validação de estimativas de chuva por satélite.
+
+Em particular, o repositório inclui scripts para gerar arquivos **netCDF** a partir de dados no formato `.trf`, bem como scripts para geração de **figuras e produtos gráficos** a partir dos arquivos netCDF processados.
+
+Abaixo estão descritos os comandos disponíveis para execução dos scripts.
+
+## Autores
+
+Os principais autores e contribuidores deste software são:
+
+1. **Alan James Peixoto Calheiros** – Concepção do projeto, supervisão científica e coordenação geral do desenvolvimento do software.  
+2. **Thomaz A. Pougy** – Principal desenvolvedor do software, responsável por grande parte da implementação do código.  
+3. **Helvécio Bezerra Leal Neto** – Refatoração do código, desenvolvimento de novas funcionalidades e elaboração da documentação.  
+4. **Aline Andrade do Nascimento** – Apoio na implementação e implantação do software em diferentes ambientes de processamento.
+
+Contribuições adicionais podem aparecer automaticamente na lista de colaboradores do GitHub.
 
 ## Instalação
 ### Requisitos
