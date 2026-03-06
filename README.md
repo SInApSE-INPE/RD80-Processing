@@ -15,7 +15,7 @@ The available commands to execute the scripts are described below.
 The main authors and contributors of this software are:
 
 1. **Alan James Peixoto Calheiros** – Project conception, scientific supervision, and overall coordination of the software development.  
-2. **Thomaz A. Pougy** – Lead software developer, responsible for a large part of the code implementation.  
+2. **Thomaz A. Pougy** – Lead software developer.  
 3. **Helvécio Bezerra Leal Neto** – Code refactoring, development of new functionalities, and documentation preparation.  
 4. **Aline Andrade do Nascimento** – Support in implementation and deployment of the software in different processing environments.
 
